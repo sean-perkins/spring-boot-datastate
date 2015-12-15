@@ -1,0 +1,12 @@
+
+*.class
+
+*.prefs
+
+.project
+
+*.bin
+
+*.properties
+
+*.lock
